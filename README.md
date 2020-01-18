@@ -3,12 +3,11 @@
 ## Prework
 
 ### App Description
-`TODO://` It changes the text color
+`TODO://` The first gif shows the app changing the text color. The second gif shows the app changing the text depending on the user input, the background color, and text color. Also by clicking on the background, the user is able to reset the application.
 
 ### App Walk-though
-<img src="http://g.recordit.co/9dr7RsBxpY.gif" width=200><br>
-<img src="http://g.recordit.co/kacYauYUzE.gif" width=200><br>
-
+<img src="http://g.recordit.co/9dr7RsBxpY.gif" width=200>
+<img src="http://g.recordit.co/kacYauYUzE.gif" width=200>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
